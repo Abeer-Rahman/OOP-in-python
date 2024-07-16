@@ -1,1 +1,1 @@
-**Lecture1**:Object Oriented Programming(Class and Object)
+**Lecture1**:{Object Oriented Programming(Class and Object)}()
