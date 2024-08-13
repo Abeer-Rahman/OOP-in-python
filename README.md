@@ -4,7 +4,7 @@
 
 **Lecture3**: [Encapsulation and Static Variable](https://github.com/Abeer-Rahman/OOP-in-python/blob/main/Lecture3_Encapculation_and_Static_Keyword.ipynb)
 
-**Lecture4**:[Abstraction](https://github.com/Abeer-Rahman/OOP-in-python/blob/main/Lecture_4_Abstraction.ipynb)
+**Lecture4**: [Abstraction](https://github.com/Abeer-Rahman/OOP-in-python/blob/main/Lecture_4_Abstraction.ipynb)
 
 
 **Sources**: 
