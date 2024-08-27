@@ -6,6 +6,8 @@
 
 **Lecture4**: [Abstraction](https://github.com/Abeer-Rahman/OOP-in-python/blob/main/Lecture_4_Abstraction.ipynb)
 
+**Lecture5**: [File Handling and Serialization] (
+
 
 **Sources**: 
 1. MIT OCW 6.0001 | Fall 2016
