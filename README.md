@@ -8,6 +8,8 @@
 
 **Lecture5**: [File Handling and Serialization](https://github.com/Abeer-Rahman/OOP-in-python/blob/main/File_handling_serialization_and_deserialization.ipynb)
 
+**Lecture6**: [Exception Handling](https://github.com/Abeer-Rahman/OOP-in-python/blob/main/L6_Exception_handling_modules_and_packages_.ipynb)
+
 
 **Sources**: 
 1. MIT OCW 6.0001 | Fall 2016
